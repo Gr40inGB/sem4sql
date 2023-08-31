@@ -7,6 +7,8 @@ https://drive.google.com/file/d/1PQn576YVakvlWrIgIjSP9YEf5id4cqYs/view?usp=shari
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
+
+
 2. Вывести на экран марку авто и количество AUTO не этой марки
    
          тоже чуть по-разному попробовал
